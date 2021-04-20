@@ -8,3 +8,4 @@
 - feature test3
 - feature test4
 - feature test5
+- feature test6
