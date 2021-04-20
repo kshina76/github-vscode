@@ -2,3 +2,4 @@
 - second commit
 - fourth commit on second-branch
 - conflict
+- conflictの対処
